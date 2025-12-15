@@ -8,6 +8,11 @@ A minimalist, image-centric theme for photographers and artists. Originally a Ga
 
 > **Note**: This theme is a modern Astro port of the beautiful [Clay Theme](https://github.com/lilxyzz/clay-theme) by `lilxyzz`.
 
+<p align="center">
+  <img src="public/img/clay_astro_light.png" width="48%" alt="Light Mode" style="border-radius: 10px; border: 1px solid #ddd;">
+  <img src="public/img/clay_astro_dark.png" width="48%" alt="Dark Mode" style="border-radius: 10px; border: 1px solid #333;">
+</p>
+
 Check out the [Live Demo](https://clay-astro-theme.netlify.app).
 
 ## Features
